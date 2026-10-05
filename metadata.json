@@ -1,0 +1,6 @@
+{
+  "name": "Swathi Dental Clinic - Attiguppe Bengaluru",
+  "description": "Premium appointment booking and patient care portal for Swathi Dental Clinic in Attiguppe, Bengaluru. Multi-speciality dental treatments led by Dr. Jyothi Nagesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
